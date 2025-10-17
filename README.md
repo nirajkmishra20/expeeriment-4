@@ -4,7 +4,8 @@ index.html
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head><img width="711" height="602" alt="Screenshot 2025-10-17 120814" src="https://github.com/user-attachments/assets/8800f462-d1ab-4127-b675-dc72148040b2" />
+
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Library Management</title>
